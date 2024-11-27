@@ -1,0 +1,154 @@
+<resources>
+    <!-- STUB! DO NOT TRANSLATE -->
+
+    <!--suppress CheckTagEmptyBody -->
+    <string name="stub" translatable="false"></string>
+
+    <!-- General -->
+
+    <string name="app_name">هاشيدوري</string>
+    <string name="author">بواسطة فريق TwiFucker</string>
+    <string name="loading">جارٍ التحميل...</string>
+
+    <string name="version">%1$s(%2$d)</string>
+    <string name="version_update">%1$s(%2$d) [إصدار جديد متوفر %3$s(%4$d)]</string>
+
+    <string name="dialog_module_update">تحديث الوحدة</string>
+
+    <string name="dialog_yes">نعم</string>
+    <string name="dialog_no">لا</string>
+    <string name="dialog_save">حفظ</string>
+    <string name="dialog_reset">إعادة تعيين</string>
+    <string name="dialog_dismiss">تجاهل</string>
+    <string name="dialog_value">قيمة</string>
+    <string name="dialog_search">بحث...</string>
+
+    <!-- Misc. -->
+
+    <string name="pref_translators">المترجمون</string>
+    <string name="translators">𝕏@1TTEP</string>
+
+    <string name="pref_telegram_title">تيليجرام</string>
+
+    <string name="pref_reset_hook_title">إعادة تعيين الخطاف</string>
+
+    <string name="pref_reset_config_title">إعادة تعيين الإعدادات</string>
+
+    <string name="dialog_reset_subtitle">هل أنت متأكد أنك تريد إعادة التعيين؟ سيُعاد تشغيل التطبيق بعد التعيين.</string>
+
+    <string name="downloading">جارٍ التنزيل...</string>
+    <string name="download_failed">فشل التنزيل</string>
+    <string name="download_link_copied">تم نسخ رابط التنزيل</string>
+    <string name="download_media">الوسائط %1$d</string>
+    <string name="download_completed">تم اكتمال التنزيل</string>
+    <string name="download_all">تنزيل الكل</string>
+    <string name="download">تنزيل</string>
+
+    <plurals name="database_deleted_rows">
+        <item quantity="one">تم حذف %1d صف من قاعدة البيانات</item>
+        <item quantity="other">تم حذف %1d صفوف من قاعدة البيانات</item>
+    </plurals>
+    <string name="promoted_tweet_deleted">تم حذف %1d تغريدة مروّجة</string>
+
+    <!-- Sections -->
+
+    <string name="section_version">الإصدار</string>
+    <string name="section_general">عام</string>
+    <string name="section_experimental">تجريبي</string>
+    <string name="section_misc">متفرقات</string>
+
+    <!-- Version -->
+    <string name="pref_host_version">إصدار المضيف</string>
+    <string name="pref_module_version">إصدار الوحدة</string>
+    <string name="pref_framework_name">اسم الإطار</string>
+    <string name="pref_framework_version">إصدار الإطار</string>
+    <string name="pref_framework_privilege">امتياز الإطار</string>
+
+    <!-- Privilege -->
+    <string name="privilege_root">روت</string>
+    <string name="privilege_container">حاوية</string>
+    <string name="privilege_app">تطبيق</string>
+    <string name="privilege_embedded">مدمج</string>
+    <string name="privilege_unknown">غير معروف</string>
+
+    <!-- Features -->
+
+    <string name="feature_remove_promoted_timeline_tweet_title">إزالة التغريدات المروّجة من الخط الزمني</string>
+
+    <string name="feature_remove_promoted_trend_title">إزالة الترندات المروّجة</string>
+
+    <string name="feature_remove_promoted_user_title">إزالة المستخدمين المروّجين</string>
+
+    <string name="feature_remove_recommended_users_title">إزالة المستخدمين الموصى بهم</string>
+
+    <string name="feature_remove_sensitive_media_warning_title">إزالة تحذير الوسائط الحساسة</string>
+
+    <string name="feature_remove_pinned_tweets_title">إزالة التغريدات المثبتة</string>
+
+    <string name="feature_remove_trends_title">إزالة الترندات</string>
+
+    <string name="feature_remove_threads_title">إزالة المواضيع</string>
+
+    <string name="feature_remove_video_carousel_title">إزالة عرض الفيديو المتحرك</string>
+
+    <string name="feature_remove_events_title">إزالة الأحداث</string>
+
+    <string name="feature_remove_related_tweet_title">إزالة التغريدات ذات الصلة</string>
+
+    <string name="feature_remove_suggest_who_to_follow_title">إزالة "من يجب متابعته"</string>
+
+    <string name="feature_remove_suggest_who_to_subscribe_title">إزالة "المبدعين المقترحين لك"</string>
+
+    <string name="feature_remove_community_to_join_title">إزالة "اكتشف مجتمعات جديدة"</string>
+
+    <string name="feature_remove_superhero_title">إزالة السوبرهيرو</string>
+    <string name="feature_remove_superhero_desc">هذا يزيل البانر المروّج الكبير في علامة التبويب استكشاف</string>
+
+    <string name="feature_skip_short_link_redirect_title">تخطي إعادة توجيه الروابط القصيرة</string>
+
+    <string name="feature_unpin_ssl_title">إزالة تثبيت SSL</string>
+
+    <string name="feature_clean_url_title">تنظيف الرابط</string>
+
+    <string name="feature_unlock_local_premium_title">فتح الميزات المحلية المدفوعة</string>
+
+    <string name="pref_custom_app_icon_title">رمز التطبيق المخصص</string>
+
+    <string name="pref_undo_tweet_settings_title">إعدادات التراجع عن التغريدة</string>
+
+    <string name="feature_custom_media_download_title">تمكين تنزيل الوسائط المخصص</string>
+    <string name="feature_custom_media_download_desc">إضافة زر التنزيل في زر المشاركة</string>
+
+    <string name="pref_custom_media_download_directory_title">دليل تنزيل الوسائط المخصص</string>
+
+    <string name="feature_remove_for_you_tab_title">إزالة علامة التبويب "لك"</string>
+
+    <string name="feature_remove_google_ads_title">إزالة إعلانات جوجل</string>
+
+    <string name="feature_remove_navbar_items_title">إزالة عناصر شريط التنقل</string>
+
+    <string name="pref_navbar_items_title">عناصر شريط التنقل</string>
+    <string name="pref_navbar_items_desc">حدد عناصر شريط التنقل لإزالتها</string>
+
+    <string name="feature_remove_drawer_items_title">إزالة عناصر الدرج</string>
+
+    <string name="pref_drawer_items_title">عناصر الدرج</string>
+    <string name="pref_drawer_items_desc">حدد عناصر الدرج لإزالتها</string>
+
+    <string name="feature_feature_switches_title">تبديل الميزات</string>
+
+    <string name="pref_feature_switches_title">عناصر تبديل الميزات</string>
+
+    <string name="feature_change_color_title">تغيير اللون</string>
+
+    <string name="pref_change_color_title">منتقي الألوان</string>
+
+    <string name="feature_disable_auto_scroll_title">تعطيل التمرير التلقائي للخط الزمني</string>
+    <string name="feature_disable_auto_scroll_desc">تعطيل التمرير التلقائي إلى الأعلى بعد تحديث الخط الزمني</string>
+
+    <string name="feature_force_high_quality_video_playing_title">فرض تشغيل الفيديو بجودة عالية</string>
+
+    <string name="feature_disable_banner_view">تعطيل عرض البانر</string>
+
+    <string name="feature_disable_sni">تعطيل SNI</string>
+</resources>
