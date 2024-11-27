@@ -68,9 +68,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">Supprimer les désagréments divers</string>
-    <string name="feature_remove_misc_desc">Supprimer le carrousel des vidéos, le tweet connexe / découvrir plus et les suggestions de personnes à suivre</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">Supprimer les tweets promotionnels du fil</string>
 
     <string name="feature_remove_promoted_trend_title">Supprimer les tendances promotionnelles</string>
@@ -104,8 +101,6 @@
     <string name="feature_unpin_ssl_title">Détacher le SSL</string>
 
     <string name="feature_clean_url_title">Nettoyer les URL</string>
-
-    <string name="feature_download_video_title">Activer le téléchargement des vidéos</string>
 
     <string name="feature_custom_media_download_title">Activer le téléchargement personnalisé des médias</string>
     <string name="feature_custom_media_download_desc">Ajouter télécharger dans le boutton de partage</string>

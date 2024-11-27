@@ -69,9 +69,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">Usuń różne irytujące elementy</string>
-    <string name="feature_remove_misc_desc">Usuń karuzelę wideo, powiązane tweety / odkryj więcej i sugestie, kogo obserwować</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">Usuń promowany tweet na osi czasu</string>
 
     <string name="feature_remove_promoted_trend_title">Usuń promowany trend</string>
@@ -105,8 +102,6 @@
     <string name="feature_unpin_ssl_title">Odepnij SSL</string>
 
     <string name="feature_clean_url_title">Wyczyść URL</string>
-
-    <string name="feature_download_video_title">Włącz pobieranie wideo</string>
 
     <string name="feature_custom_media_download_title">Włącz niestandardowe pobieranie multimediów</string>
     <string name="feature_custom_media_download_desc">Dodaj przycisk pobierania w menu udostępniania</string>

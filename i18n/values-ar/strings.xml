@@ -63,9 +63,6 @@
 
     <!-- Features -->
 
-    <string name="feature_remove_misc_title">نشيل حاجات ثانية</string>
-    <string name="feature_remove_misc_desc">نشيل فيديوهات الكاروسيل، التغريدات المرتبطة واكتشف المزيد وتوصيات المتابعة</string>
-
     <string name="feature_remove_promoted_timeline_tweet_title">نشيل الإعلانات من التايم لاين</string>
 
     <string name="feature_remove_promoted_trend_title">نشيل الترويج للترندات</string>
@@ -99,8 +96,6 @@
     <string name="feature_unpin_ssl_title">نشيل تثبيت الشهادة</string>
 
     <string name="feature_clean_url_title">ننظف الروابط</string>
-
-    <string name="feature_download_video_title">نفعل تنزيل الفيديو</string>
 
     <string name="feature_custom_media_download_title">نفعل تنزيل الوسائط بشكل مخصص</string>
     <string name="feature_custom_media_download_desc">نضيف خيار التنزيل في زر المشاركة</string>
